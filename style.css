@@ -1,0 +1,29 @@
+body {
+    height: 100%;
+    margin: 0;
+    background-color: rgb(213, 135, 135);
+    text-align: center;
+}
+
+
+h2{
+    color: #ff0000;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    margin-top: 20px;
+}
+img {
+    width: 50%;
+    height: 70%;
+    position: center;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #ff0000;
+    border-width: 10px
+}
+
+a {
+    color: #ff0000;
+    font-weight: bold;
+    font-size: 80px;
+}
